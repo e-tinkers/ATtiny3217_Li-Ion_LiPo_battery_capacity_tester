@@ -13,8 +13,6 @@ The project is based on the design from https://github.com/wagiminator/ATtiny412
 6. Add JST connector for Li-Po/Li-Ion battery;
 7. No battery holder for CR123A battery.
 
-!["Li-ion/Li-Po battery capacity tester"](Li-ion_Lipo_battery_capacity_tester.png)
-
 ## Software
 The software is modified according due to the change of the hardware, plus more: 
 1. Modified the code to connect each button to a GPIO pin instead of 
