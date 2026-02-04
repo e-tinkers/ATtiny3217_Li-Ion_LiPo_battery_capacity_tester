@@ -25,5 +25,8 @@ using one ADC pin;
 7. Fix the bugs in VREF configuration for DAC [here](https://github.com/wagiminator/ATtiny412-BatteryCapacityTester/pull/1).
  
 ## Note
-Although the schematic shows the use of a bare ATtiny3217 chip, but in actual implementation I used a readily-made [ATtiny3217 development board](https://github.com/e-tinkers/attiny3217) that I made in 2020 for the project which makes it easier for prototyping and without the need for addition PCB fabrication.
+Although the schematic shows the use of a bare ATtiny3217 chip, but in actual implementation I use a readily-made [ATtiny3217 development board](https://github.com/e-tinkers/attiny3217) that I made in 2020 for the project which makes it easier for prototyping and without the need for addition PCB fabrication.
+
+## Blog
+Further details about the project can be found on my block at [e-tinkers.com](https://www.e-tinkers.com/2026/02/build-a-li-ion-li-po-battery-capacity-tester/)
 
