@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/avr/drivers/**"
+            ],
+            "defines": [
+                "__AVR_ATtiny3217__",
+                "F_CPU=5000000UL"
+            ],
+            "compilerPath": "~/avr/toolchain-atmelavr/bin/avr-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-gcc-arm64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
